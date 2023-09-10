@@ -76,9 +76,9 @@ Workshop guidance is organized on the Kumpula campus in room BK107 during the fa
 
 ## Links
 
-[Installing Rails](https://github.com/mluukkai/WebPalvelinofjemmointi2023/blob/main/web/railsin_asentaminen-english.md)
+[Installing Rails](https://github.com/mluukkai/WebPalvelinohjelmointi2023/blob/main/web/railsin_asentaminen-english.md)
 
-[Ruby instructions](https://github.com/mluukkai/WebPalvelinojjemlointi2023/blob/main/web/rubyn_perusteita-english.md)
+[Ruby instructions](https://github.com/mluukkai/WebPalvelinohjelmointi2023/blob/main/web/rubyn_perusteita-english.md)
 
 [first part](https://github.com/HY-TKTL/ruby-materiali/blob/master/Perusteet.md) and [second part](https://github.com/HY-TKTL) of the Ruby training material /ruby-material/blob/master/LuokkiaJaOlioita.md)
 
